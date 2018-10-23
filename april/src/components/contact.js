@@ -10,7 +10,7 @@ class Contact extends Component
             <Grid className="contact-grid">
             <Cell col={6}>
                 <h2>April Martinez</h2>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgoljvuBryg6tKZpk0sKid6OoUopxUJHQPzEQ5mE9sVHRb1gzPog " alt="avatar" style={{ height: "250px" }} />
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLc27x9X6auD18LIg4avh3nkz3tnjmlrH7ZiFwHscWuP9VVthlw" alt="avatar" style={{ height: "200px" }}/>
                 <p
             style={{
                     width: "75%",
@@ -42,12 +42,12 @@ class Contact extends Component
                     </ListItem>
                     <ListItem>
                         <ListItemContent style={{ fontSize: "30px", fontFamily: "Anton" }}>
-                        <i className="fa fa-mobile" aria-hidden="true" />
+                        <i className="fa fa-fax" aria-hidden="true" />
                         (123) 456-7898
                         </ListItemContent>
                     </ListItem>
                     <ListItem>
-                        <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                        <ListItemContent style={{ fontSize: '25px', fontFamily: 'Anton' }}>
                         <i className="fa fa-envelope" aria-hidden="true" />
                         martinezapril56@yahoo.com
                             </ListItemContent>
