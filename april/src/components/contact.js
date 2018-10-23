@@ -6,7 +6,8 @@ class Contact extends Component
 {
     render()
     {
-        return <div className="contact-body">
+        return (
+            <div className="contact-body">
             <Grid className="contact-grid">
             <Cell col={6}>
                 <h2>April Martinez</h2>
@@ -37,7 +38,7 @@ class Contact extends Component
                     <ListItem>
                         <ListItemContent style={{ fontSize: "30px", fontFamily: "Anton" }}>
                         <i className="fa fa-phone-square" aria-hidden="true" />
-                        (123) 456-7898
+                        (845) 595-1053
                         </ListItemContent>
                     </ListItem>
                     <ListItem>
@@ -56,7 +57,8 @@ class Contact extends Component
                 </div>
             </Cell>
             </Grid>
-        </div>;
+            </div>
+        )
     }
 }
 export default Contact;
