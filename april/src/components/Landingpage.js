@@ -11,12 +11,10 @@ class Landingpage extends Component {
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLc27x9X6auD18LIg4avh3nkz3tnjmlrH7ZiFwHscWuP9VVthlw"
                 alt="avatar"
                 className="avatar-img"
-            />
+                />
             <div className="banner-text">
                 <h1>Full Stack Web Developer</h1>
-
                 <hr />
-
                 <p>
                 HTML/CSS | Bootstrap | JavaScript | React | React Native |
                 NodeJS | Express | Mongodb

@@ -30,11 +30,8 @@ padding-top: 5em;
   opacity: .8;
   margin: auto;
   border-radius: 10px;
-  display:flex;
-  justify-content: space-evenly;
   
   
-
 }
 
 .banner-text h1{
@@ -46,10 +43,10 @@ padding-top: 5em;
 }
 
 .banner-text hr{
-  border-top: 5px dotted white;
+border-top: 5px dotted white;
 width: 50%;
 margin: auto;
-padding:3rem;
+
 
 }
 
