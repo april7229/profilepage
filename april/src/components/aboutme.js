@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell, List, ListItem, ListItemContent } from "react-mdl";
+import { Grid, Cell} from "react-mdl";
 
 class Aboutme extends Component
 {
@@ -18,15 +18,9 @@ class Aboutme extends Component
                                 paddingTop: "1em"
                             }}
                         >
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip
-                            ex ea commodo consequat. Duis aute irure dolor in
-                            reprehenderit in voluptate velit esse cillum dolore eu
-                            fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia
-                            deserunt mollit anim id est laborum.
+                            Hi! My name is April. I am a Lambda School Graduate. I have been Programming Non-Stop for a little over a year.
+                            I have played around with Javascript, Python, Angular and Ruby. I love Building and learning new ways to make beautyful websites.
+                            My lack of experience is waivered by my love of learning and dedication to my art.
                 </p>
                                         
                     </Cell>
