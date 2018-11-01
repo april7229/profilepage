@@ -58,16 +58,11 @@ class Projects extends Component
                     Welcome
                   </CardTitle>
                   <CardText>
-                    Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit. Mauris sagittis pellentesque
-                    lacus eleifend lacinia...
+                    Here are some of things i created
                   </CardText>
                   <CardActions border>
                     <Button colored>github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>Django</Button>
-                    <Button colored>Django</Button>
+                   
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
@@ -89,16 +84,11 @@ class Projects extends Component
                     Welcome
                   </CardTitle>
                   <CardText>
-                    Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit. Mauris sagittis pellentesque
-                    lacus eleifend lacinia...
+                   Here are some of the things i create
                   </CardText>
                   <CardActions border>
                     <Button colored>github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>Django</Button>
-                    <Button colored>Django</Button>
+                    
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
