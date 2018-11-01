@@ -123,11 +123,9 @@ class Projects extends Component
                     Here are some links to projects. I have done.
                   </CardText>
                   <CardActions border>
-                    <Button colored>github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>Django</Button>
-                    <Button colored>Django</Button>
+                    <Button colored>github</Button>                   
+                    
+                    
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
