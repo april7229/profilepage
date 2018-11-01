@@ -30,8 +30,8 @@ class Projects extends Component
                     Here are some Project i have create.
                   </CardText>
                   <CardActions border>
-                    <Button colored>github</Button>
-                  <link>https://github.com/april7229</link>
+                    <Button colored>github
+                  <link>https://github.com/april7229</link></Button>
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
@@ -56,8 +56,8 @@ class Projects extends Component
                     Here are some of things i created
                   </CardText>
                   <CardActions border>
-                    <Button colored>github</Button>
-                  <link>https://github.com/april7229</link>
+                    <Button colored>github
+                  <link>https://github.com/april7229</link></Button>
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
@@ -75,8 +75,8 @@ class Projects extends Component
                     Here are some of the things i create
                   </CardText>
                   <CardActions border>
-                    <Button colored>github</Button>
-                    <link>https://github.com/april7229</link>
+                    <Button colored>github
+                  <link>https://github.com/april7229</link></Button>
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
@@ -94,8 +94,8 @@ class Projects extends Component
                     Here are some links to projects. I have done.
                   </CardText>
                   <CardActions border>
-                    <Button colored>github</Button>
-                    <link>https://github.com/april7229</link>
+                    <Button colored>github
+                  <link>https://github.com/april7229</link></Button>
                   </CardActions>
                   <CardMenu style={{ color: "#fff" }}>
                     <IconButton name="share" />
