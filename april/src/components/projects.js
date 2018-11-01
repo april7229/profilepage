@@ -120,9 +120,7 @@ class Projects extends Component
                     Welcome
                   </CardTitle>
                   <CardText>
-                    Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit. Mauris sagittis pellentesque
-                    lacus eleifend lacinia...
+                    Here are some links to projects. I have done.
                   </CardText>
                   <CardActions border>
                     <Button colored>github</Button>
