@@ -19,15 +19,7 @@ class Contact extends Component
                     paddingTop: "1em"
                 }}
                 >
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum.
+                Do you remember Socrates? He was repeating over and over one sentence: Oida ouden eidos!, which means: I know that I know nothing. The same applies to a good programmer. He admits when he doesn't know something, in contrary to many coders who only appear to know everything. In fact, they search every answer online and act as they knew them from the beginning. That strategy won't suffice, and anyone using it will end up kidding themselves and everyone around them. Programming is a job based on knowledge, and no one knows everything. A good programmer is not afraid to ask questions to those wiser than himself. He will invite them to solve a given problem together and in the process gain new experience. A good coder seeks clues and solutions from different sources, e.g. companies' articles on Bulldogjob. Accepting our limitations is the first step towards greatness, also in programming.
                 </p>
                 </Cell>
                 <Cell col={6}>
