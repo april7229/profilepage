@@ -22,7 +22,7 @@ class Landingpage extends Component {
                 <div className="social-links">
                 {/* LinkedIn*/}
                 <a
-                    href="http://google.com"
+                    href="https://www.linkedin.com/in/aprilgmartinez74/"
                     rel="noopener noreferrer"
                     target="_blank"
                 >
@@ -30,7 +30,7 @@ class Landingpage extends Component {
                 </a>
                 {/* GitHub*/}
                 <a
-                    href="http://google.com"
+                    href="https://github.com/april7229"
                     rel="noopener noreferrer"
                     target="_blank"
                 >
@@ -38,7 +38,7 @@ class Landingpage extends Component {
                 </a>
                 {/* Freecodecamp*/}
                 <a
-                    href="http://google.com"
+                    href="https://www.freecodecamp.org/april7229"
                     rel="noopener noreferrer"
                     target="_blank"
                 >
